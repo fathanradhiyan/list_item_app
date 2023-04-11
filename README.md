@@ -1,6 +1,6 @@
 # listing_item_app
 
-Pertamina Retail test
+crud flutter app
 
 ## Getting Started
 
